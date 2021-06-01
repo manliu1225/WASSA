@@ -40,7 +40,7 @@ tensorflow-gpu==1.0.1
 tqdm==4.11.2
 ufw==0.35
 unattended-upgrades==0.1
-urllib3==1.13.1
+urllib3==1.26.5
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
 virtualenvwrapper==4.7.1
