@@ -36,7 +36,7 @@ sklearn==0.0
 ssh-import-id==5.5
 stevedore==1.16.0
 system-service==0.3
-tensorflow-gpu==1.0.1
+tensorflow-gpu==2.9.3
 tqdm==4.11.2
 ufw==0.35
 unattended-upgrades==0.1
